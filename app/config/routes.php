@@ -1,0 +1,1 @@
+Router::connect('/', array('controller' => 'posts', 'action' => 'index'));
